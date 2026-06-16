@@ -1,0 +1,150 @@
+[
+  {
+    "id": "23f55118",
+    "title": "Follow-Up Plan – Gastroenterologist (Critical Risk)",
+    "priority": "Urgent",
+    "specialist": "General Physician",
+    "scheduled_date": "2026-05-24",
+    "status": "CANCELLED",
+    "created_at": "2026-05-23T12:45:44.526618",
+    "actions": [
+      "Seek immediate medical attention at the nearest emergency facility",
+      "Do not delay – call emergency services if symptoms worsen",
+      "Bring a list of current medications and recent medical history",
+      "Have someone accompany you to the appointment",
+      "Avoid strenuous physical activity until evaluated",
+      "Follow a bland diet – avoid spicy, oily, and acidic foods",
+      "Note timing of symptoms relative to meals"
+    ]
+  },
+  {
+    "id": "0d0d84c5",
+    "title": "Follow-Up Plan – Cardiologist (Critical Risk)",
+    "priority": "Urgent",
+    "specialist": "General Physician",
+    "scheduled_date": "2026-05-24",
+    "status": "CANCELLED",
+    "created_at": "2026-05-23T13:08:20.736148",
+    "actions": [
+      "Seek immediate medical attention at the nearest emergency facility",
+      "Do not delay – call emergency services if symptoms worsen",
+      "Bring a list of current medications and recent medical history",
+      "Have someone accompany you to the appointment",
+      "Avoid strenuous physical activity until evaluated",
+      "Avoid caffeine and high-sodium foods until evaluated",
+      "Monitor blood pressure if a home monitor is available"
+    ]
+  },
+  {
+    "id": "1df4a382",
+    "title": "Follow-Up Plan – Pulmonologist (Critical Risk)",
+    "priority": "Urgent",
+    "specialist": "General Physician",
+    "scheduled_date": "2026-05-24",
+    "status": "CANCELLED",
+    "created_at": "2026-05-23T14:08:31.459056",
+    "actions": [
+      "Seek immediate medical attention at the nearest emergency facility",
+      "Do not delay – call emergency services if symptoms worsen",
+      "Bring a list of current medications and recent medical history",
+      "Have someone accompany you to the appointment",
+      "Avoid strenuous physical activity until evaluated",
+      "Avoid exposure to smoke, dust, and allergens",
+      "Practice controlled breathing exercises if comfortable"
+    ]
+  },
+  {
+    "id": "8956c66a",
+    "title": "Follow-Up Plan – Dermatologist (Mild Risk)",
+    "priority": "Routine",
+    "specialist": "General Physician",
+    "scheduled_date": "2026-05-31",
+    "status": "CANCELLED",
+    "created_at": "2026-05-24T01:51:39.249333",
+    "actions": [
+      "Schedule a routine check-up with the recommended specialist",
+      "Monitor symptoms at home and note any changes",
+      "Maintain a healthy diet and adequate hydration",
+      "Get sufficient rest and manage stress levels",
+      "Follow up if symptoms persist beyond the recommended timeline",
+      "Avoid scratching or irritating affected skin areas",
+      "Keep the affected area clean and moisturized"
+    ]
+  },
+  {
+    "id": "5fef728e",
+    "title": "Follow-Up Plan – Dermatologist (Mild Risk)",
+    "priority": "Routine",
+    "specialist": "General Physician",
+    "scheduled_date": "2026-05-31",
+    "status": "CANCELLED",
+    "created_at": "2026-05-24T01:51:40.597444",
+    "actions": [
+      "Schedule a routine check-up with the recommended specialist",
+      "Monitor symptoms at home and note any changes",
+      "Maintain a healthy diet and adequate hydration",
+      "Get sufficient rest and manage stress levels",
+      "Follow up if symptoms persist beyond the recommended timeline",
+      "Avoid scratching or irritating affected skin areas",
+      "Keep the affected area clean and moisturized"
+    ]
+  },
+  {
+    "id": "8696662d",
+    "title": "Follow-Up Plan – Orthopedic (Moderate Risk)",
+    "priority": "Moderate",
+    "specialist": "Orthopedic",
+    "scheduled_date": "2026-06-19",
+    "status": "SCHEDULED",
+    "created_at": "2026-06-16T19:52:52.694688",
+    "actions": [
+      "Schedule an appointment with the recommended specialist",
+      "Monitor symptoms and note any changes or worsening",
+      "Keep a symptom diary with timestamps for the consultation",
+      "Stay hydrated and get adequate rest",
+      "Avoid self-medication without professional guidance",
+      "Avoid heavy lifting or strenuous movement of the affected area",
+      "Apply ice to swollen joints for 15-minute intervals"
+    ]
+  },
+  {
+    "id": "630a2b2e",
+    "title": "Follow-Up Plan – Cardiologist (Critical Risk)",
+    "priority": "Urgent",
+    "specialist": "Cardiologist",
+    "scheduled_date": "2026-06-17",
+    "status": "SCHEDULED",
+    "created_at": "2026-06-16T21:40:12.938026",
+    "actions": [
+      "Seek immediate medical attention at the nearest emergency facility",
+      "Do not delay – call emergency services if symptoms worsen",
+      "Bring a list of current medications and recent medical history",
+      "Have someone accompany you to the appointment",
+      "Avoid strenuous physical activity until evaluated",
+      "Avoid caffeine and high-sodium foods until evaluated",
+      "Monitor blood pressure if a home monitor is available",
+      "Avoid exposure to smoke, dust, and allergens",
+      "Practice controlled breathing exercises if comfortable"
+    ]
+  },
+  {
+    "id": "691d9368",
+    "title": "Follow-Up Plan – Cardiologist (Critical Risk)",
+    "priority": "Urgent",
+    "specialist": "Cardiologist",
+    "scheduled_date": "2026-06-17",
+    "status": "CANCELLED",
+    "created_at": "2026-06-16T21:41:01.109401",
+    "actions": [
+      "Seek immediate medical attention at the nearest emergency facility",
+      "Do not delay – call emergency services if symptoms worsen",
+      "Bring a list of current medications and recent medical history",
+      "Have someone accompany you to the appointment",
+      "Avoid strenuous physical activity until evaluated",
+      "Avoid caffeine and high-sodium foods until evaluated",
+      "Monitor blood pressure if a home monitor is available",
+      "Avoid exposure to smoke, dust, and allergens",
+      "Practice controlled breathing exercises if comfortable"
+    ]
+  }
+]

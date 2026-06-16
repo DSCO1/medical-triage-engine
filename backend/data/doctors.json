@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Dr. Aisha Khan",
+    "specialty": "Cardiologist",
+    "available_slots": ["09:00", "11:00", "14:00"],
+    "location": "Building A, Room 101"
+  },
+  {
+    "id": 2,
+    "name": "Dr. Rahul Mehta",
+    "specialty": "Pulmonologist",
+    "available_slots": ["10:00", "13:00", "16:00"],
+    "location": "Building B, Room 205"
+  },
+  {
+    "id": 3,
+    "name": "Dr. Sarah Johnson",
+    "specialty": "General Physician",
+    "available_slots": ["08:00", "10:30", "12:00", "15:00"],
+    "location": "Building A, Room 103"
+  },
+  {
+    "id": 4,
+    "name": "Dr. Priya Sharma",
+    "specialty": "Gastroenterologist",
+    "available_slots": ["09:30", "12:30", "15:30"],
+    "location": "Building C, Room 310"
+  },
+  {
+    "id": 5,
+    "name": "Dr. David Lee",
+    "specialty": "Neurologist",
+    "available_slots": ["10:00", "14:00"],
+    "location": "Building B, Room 208"
+  },
+  {
+    "id": 6,
+    "name": "Dr. Fatima Al-Rashid",
+    "specialty": "Dermatologist",
+    "available_slots": ["09:00", "11:30", "14:30"],
+    "location": "Building A, Room 112"
+  },
+  {
+    "id": 7,
+    "name": "Dr. James Wilson",
+    "specialty": "Orthopedic",
+    "available_slots": ["08:30", "11:00", "13:30"],
+    "location": "Building D, Room 401"
+  },
+  {
+    "id": 8,
+    "name": "Dr. Meera Patel",
+    "specialty": "ENT Specialist",
+    "available_slots": ["09:00", "12:00", "15:00"],
+    "location": "Building C, Room 315"
+  },
+  {
+    "id": 9,
+    "name": "Dr. Robert Chen",
+    "specialty": "Emergency Medicine",
+    "available_slots": ["24/7"],
+    "location": "Emergency Wing, Ground Floor"
+  }
+]
