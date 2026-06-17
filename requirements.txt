@@ -9,8 +9,8 @@ scikit-learn
 joblib
 python-dotenv
 PyYAML
-pydantic
 requests
+pydantic
 groq
 langchain
 langchain-groq
